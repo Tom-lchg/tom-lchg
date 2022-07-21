@@ -1,5 +1,5 @@
 # Hello 👋
-### Je suis un apprenti développeur
+### Je suis un apprenti développeur (plutôt back-end)
 
 # Mes principales compétences
 ### Front-end
