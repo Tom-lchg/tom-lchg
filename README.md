@@ -11,7 +11,7 @@
 - PHP 7 / 8
 - Symfony 6
 
-### Librairie que j'utilise le plus
+### Librairies que j'utilise le plus
 - Chakra UI
 - Bootstrap
 - Framer-motion
