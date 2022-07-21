@@ -19,8 +19,8 @@
 - Tailwind css
 
 # Autre langages 
-- C
-- Python
+- C (algorithmique)
+- Python (5 ans)
 
 # En cours d'apprentissage / approfondissement
 - TS (TypeScript)
