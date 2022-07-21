@@ -18,5 +18,12 @@
 - Three js
 - Tailwind css
 
+# Autre langages 
+- C
+- Python
+
+# En cours d'apprentissage / approfondissement
+- TS (TypeScript)
+
 # Portfolio
 Vous retrouverez [ici](https://tomlau.vercel.app/) mon parcours et mes projets
