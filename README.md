@@ -19,4 +19,4 @@
 - Tailwind css
 
 # Portfolio
-[lien](https://tomlau.vercel.app/)
+Vous retrouverez [ici](https://tomlau.vercel.app/) mon parcours et mes projets
